@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Clinic</string>
+    <string name="tagline">Healthcare Management System</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_patients">Patients</string>
+    <string name="nav_appointments">Appointments</string>
+    <string name="nav_doctors">Doctors</string>
+    <string name="nav_billing">Billing &amp; Records</string>
+    <string name="add_patient">Register Patient</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="search_placeholder">Search patients, doctors, appointments...</string>
+    <string name="status_scheduled">Scheduled</string>
+    <string name="status_confirmed">Confirmed</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_cancelled">Cancelled</string>
+    <string name="status_paid">Paid</string>
+    <string name="status_pending">Pending</string>
+</resources>
